@@ -1,4 +1,7 @@
 # sql_data_analysis
+<p align="center">
+  <img src="https://github.com/preranaharish/sql_data_analysis/blob/main/indiancocktails.jpg" width="350" title="hover text">
+</p>
 * Dataset : Indian Food
 * Dataset source : https://www.kaggle.com/nehaprabhavalkar/indian-food-101
 
